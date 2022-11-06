@@ -7,10 +7,15 @@
 
 /*Header*/
 @import "./global/header.css";
+/*Footer*/
+@import "./global/footer.css";
 
 /*Home*/
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimentos.css";
+@import "./seguros/seguros.css";
 
 /*Bicicletas*/
 @import "./bicicletas/bicicletas-lista.css";
